@@ -90,5 +90,4 @@ A smart mirror that uses machine learning to recognize users and provide persona
 
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Rachel-3&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Rachel-3&label=Profile%20Views&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
