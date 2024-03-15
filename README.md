@@ -29,7 +29,7 @@ cofla226@naver.com
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=flat&logo=adobe&logoColor=white)
 <br><br>
 
-# 🌟 My Activities
+# 🌟 Activities
 
 ### Awards
 - **2019 VISION EXPO** : Korean Institute of Electrical Engineers Jeonbuk Branch Chairman's Award - SP-Atom [Link](https://drive.google.com/file/d/17aBfvCmH2AbcwnBpTEuRyMRgiessZ1wu/view?usp=sharing)
