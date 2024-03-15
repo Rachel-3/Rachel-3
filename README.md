@@ -39,10 +39,10 @@ cofla226@naver.com
 - **2024 Big Data Analysis Competition** : Excellence Award [Link](https://drive.google.com/file/d/1SVEhES9eoHcf4axp4616B_IownqZSNpQ/view?usp=sharing)
 
 ### Publications
-- **2023 "A Study on the Low(No)-Code Platform Based on Web Crawling and NLP for Providing Framework-Specific Code"**: ACK 2023 (Publication Number: KIPS_C2023B0358) [Link](https://drive.google.com/file/d/1eA1_F3MCR9K9Ke-fem9eYSgRbacz2-w5/view) [Poster](https://drive.google.com/file/d/1fal0UX6Sp7Zz_avXrY75mgldEiU0hf6u/view?usp=sharing)
+- **2023 "A Study on the Low(No)-Code Platform Based on Web Crawling and NLP for Providing Framework-Specific Code"** : ACK 2023 (Publication Number: KIPS_C2023B0358) [Link](https://drive.google.com/file/d/1eA1_F3MCR9K9Ke-fem9eYSgRbacz2-w5/view) [Poster](https://drive.google.com/file/d/1fal0UX6Sp7Zz_avXrY75mgldEiU0hf6u/view?usp=sharing)
 
 ### Patent Applications
-- **2023 "Web Application Development Method"**: (Application Number: 10-2023-0167499) [Link](https://drive.google.com/file/d/1nCwqF8XQZgYyL93qg6BcyWey1vdn_AlK/view?usp=sharing)
+- **2023 "Web Application Development Method"** : (Application Number: 10-2023-0167499) [Link](https://drive.google.com/file/d/1nCwqF8XQZgYyL93qg6BcyWey1vdn_AlK/view?usp=sharing)
 <br><br>
 
 # 💼 Projects
@@ -87,5 +87,6 @@ A smart mirror that uses machine learning to recognize users and provide persona
 - Information Processing Engineer
 - SQLD (SQL Developer)
 ```
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Rachel-3&icon=6&color=6)](https://visitcount.itsvg.in)
