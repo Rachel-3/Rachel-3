@@ -87,7 +87,5 @@ A smart mirror that uses machine learning to recognize users and provide persona
 - Information Processing Engineer
 - SQLD (SQL Developer)
 ```
-
-
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=Rachel-3&label=Profile%20Views&color=11&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rachel-3&icon=6&color=6)](https://visitcount.itsvg.in)
