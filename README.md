@@ -17,7 +17,7 @@ cofla226@naver.com
 # 💻 Tech Stack
 
 ### Languages & Technologies
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
@@ -39,10 +39,10 @@ cofla226@naver.com
 - **2024 Big Data Analysis Competition** : Excellence Award [Link](https://drive.google.com/file/d/1SVEhES9eoHcf4axp4616B_IownqZSNpQ/view?usp=sharing)
 
 ### Publications
-- **2023 "A Study on the Low(No)-Code Platform Based on Web Crawling and NLP for Providing Framework-Specific Code"** : ACK 2023 (Publication Number: KIPS_C2023B0358) [Link](https://drive.google.com/file/d/1eA1_F3MCR9K9Ke-fem9eYSgRbacz2-w5/view) [Poster](https://drive.google.com/file/d/1fal0UX6Sp7Zz_avXrY75mgldEiU0hf6u/view?usp=sharing)
+- **2023 "A Study on the Low(No)-Code Platform Based on Web Crawling and NLP for Providing Framework-Specific Code"** : ACK 2023 (Publication Number : KIPS_C2023B0358) [Link](https://drive.google.com/file/d/1eA1_F3MCR9K9Ke-fem9eYSgRbacz2-w5/view) [Poster](https://drive.google.com/file/d/1fal0UX6Sp7Zz_avXrY75mgldEiU0hf6u/view?usp=sharing)
 
 ### Patent Applications
-- **2023 "Web Application Development Method"** : (Application Number: 10-2023-0167499) [Link](https://drive.google.com/file/d/1nCwqF8XQZgYyL93qg6BcyWey1vdn_AlK/view?usp=sharing)
+- **2023 "Web Application Development Method"** : (Application Number : 10-2023-0167499) [Link](https://drive.google.com/file/d/1nCwqF8XQZgYyL93qg6BcyWey1vdn_AlK/view?usp=sharing)
 <br><br>
 
 # 💼 Projects
