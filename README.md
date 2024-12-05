@@ -75,6 +75,10 @@ A smart mirror that uses machine learning to recognize users and provide persona
 - **TimePlace**<br>
 A prototype web application that recommends the optimal meeting schedule and accessible venue based on participants' available times and preferred locations.  
 (*Served as a mentor for this project, contributing to idea development, team guidance, and debugging support.*)
+
+- **LMS with LTI Integration (Mediopia Project)**<br>
+A prototype project to apply LTI to an LMS, aimed at enhancing interoperability with external learning tools.  
+(*Currently ongoing project*)
 <br><br>
 
 # 📜 Certifications
