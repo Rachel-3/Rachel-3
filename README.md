@@ -71,6 +71,10 @@ A web platform that enables users to create web interfaces with drag-and-drop, w
 
 - **ReflectAI - Smart Mirror Personalization Suite**<br>
 A smart mirror that uses machine learning to recognize users and provide personalized information and recommendations.
+
+- **TimePlace**<br>
+A prototype web application that recommends the optimal meeting schedule and accessible venue based on participants' available times and preferred locations.  
+(*Served as a mentor for this project, contributing to idea development, team guidance, and debugging support.*)
 <br><br>
 
 # 📜 Certifications
