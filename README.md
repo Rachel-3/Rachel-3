@@ -37,6 +37,7 @@ cofla226@naver.com
 - **2023 Digital Creative Talent Competition** : Excellence Award - Feelog [Link](https://drive.google.com/file/d/1tKbnP7pu8IdBLkGVvJ38YeG1fFAN7pVu/view?usp=sharing)
 - **2023 Hanium ICT Mentoring Contest** : Finalist - Front-end Low(No)-Code IDE using GPT [Link](https://drive.google.com/file/d/1uVwJ1rdJD8Hev5Gw7QtZEpiQNtg_YJGn/view?usp=sharing)
 - **2024 Big Data Analysis Competition** : Excellence Award [Link](https://drive.google.com/file/d/1SVEhES9eoHcf4axp4616B_IownqZSNpQ/view?usp=sharing)
+- **2024 CSE Hackathon Competition** : Grand Prize [Link](https://drive.google.com/file/d/1p_QVnX-CpkABZgQ9OQ_Fed03qNrSIyyd/view)
 
 ### Publications
 - **2023 "A Study on the Low(No)-Code Platform Based on Web Crawling and NLP for Providing Framework-Specific Code"** : ACK 2023 (Publication Number : KIPS_C2023B0358) [Link](https://drive.google.com/file/d/1eA1_F3MCR9K9Ke-fem9eYSgRbacz2-w5/view) [Poster](https://drive.google.com/file/d/1fal0UX6Sp7Zz_avXrY75mgldEiU0hf6u/view?usp=sharing)
